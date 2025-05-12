@@ -1,30 +1,36 @@
 
-# 🛡️ PySecureX
-
-## 🕌 Assalamualaikum & Welcome to PySecureX
-
-### 🛠️ Created By: `Ariyan Rabbi`
-
----
-
-> 🚫 **Don't try to decompile or edit this tool.**  
-> 🧠 **For Educational Purpose Only.**  
-> ⚠️ **I'm not responsible for any misuse. Use at your own risk.**
+<h1 align="center">🛡️ PySecureX v1.0</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Creator-Ariyan%20Rabbi-green?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/Encryption-Hard%20Level-critical?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 🔐 Password:
-````
-DARK-NET
-````
+## 🔰 Assalamu Alaikum Hackerz!
+
+> **"Encrypt like a hacker, protect like a pro!"**  
+> **PySecureX** is your all-in-one Python script encryption tool, built to secure your code using **Marshal**, **Cython**, and **Nuitka**.  
+> Powerful for pro developers, perfect for ethical hacking learners.
 
 ---
 
-## ⚙️ Installation & Usage (Termux):
+## ✨ Key Features:
+- 🔐 Password-protected tool access  
+- ⚙️ 3-layer encryption: Marshal → Cython → Nuitka  
+- ✅ Very hard to reverse engineer  
+- 🧪 Normal to extreme encryption levels available  
+- ⚡ Fast and easy-to-use interface
+
+---
+
+## ⚙️ Installation & Usage (Termux/Linux):
 ```bash
 termux-setup-storage
 pkg update && pkg upgrade
-pip install nuitka 
+pip install nuitka cython
 rm -rf PySecureX
 git clone https://github.com/DARK-NET-403/PySecureX
 cd PySecureX
@@ -34,12 +40,17 @@ chmod +x PySecureX.bin
 
 ---
 
-## ✨ Features:
-- ✅ Simple Python Code Hard Encrypt  
-- 🔐 3-Step Total Encryption  
-- ⚙️ Nuitka, Cython & Marshal Support  
-- 🔒 Nuitka & Cython → Very Strong Encryption  
-- 🧪 Marshal → Normal Level Encryption
+## 🔐 Login Password:
+```
+DARK-NET
+```
+
+---
+
+## ⚠️ Notes:
+- ❌ Do not decompile or modify this tool.
+- 📚 For educational and ethical use only.
+- ⚠️ I take no responsibility for any misuse—use at your own risk.
 
 ---
 
@@ -51,19 +62,26 @@ chmod +x PySecureX.bin
 
 ---
 
-## 📞 Find Me on:
+## 🧑‍💻 Author Info:
 
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FiCkCecyD/)  
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DARK_NET_403)  
-[![Messenger](https://img.shields.io/badge/Messenger-Chat-0078FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/DARK.NET.403)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARK-NET-403)
-
----
-
-## ✅ All Errors Fixed  
-> If you find any bug or issue, feel free to contact me!
+| Platform | Link |
+|----------|------|
+| Facebook | [Follow Me](https://www.facebook.com/share/1FiCkCecyD/) |
+| Telegram | [Join Chat](https://t.me/DARK_NET_403) |
+| Messenger | [Message Me](https://m.me/DARK.NET.403) |
+| GitHub | [My Projects](https://github.com/DARK-NET-403) |
 
 ---
 
-## ✨ Enjoy & Stay Secure  
-## ❤️ Thanks for Using **PySecureX**
+## ❤️ Show Some Love:
+```bash
+⭐ Star the repository
+📢 Share with your hacker circle
+```
+
+> **Crafted with pride by `Ariyan Rabbi` for all Python hackers out there.**  
+> Stay hidden. Stay secure. Stay ethical.
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" />
+</p>
