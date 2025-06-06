@@ -30,6 +30,7 @@
 ```bash
 termux-setup-storage
 pkg update && pkg upgrade
+pkg install patchelf
 pip install nuitka cython
 rm -rf PySecureX
 git clone https://github.com/DARK-NET-403/PySecureX
